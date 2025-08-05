@@ -1,0 +1,10 @@
+tensorflow>=2.13
+keras>=2.13
+keras-cv>=0.6.0
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.1
+matplotlib>=3.6
+flask>=2.2
+requests>=2.28
+
